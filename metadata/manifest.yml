@@ -16,7 +16,7 @@ Website:
 Source-Url: https://github.com/liangxia/cart_diy.git
 #Source-Url: git://github.com/liangxia/cart_diy.git
 #Source-Url: http://github.com/liangxia/cart_diy.git
-#Source-Url: https://github.com/liangxia/archive/master.zip
+#Source-Url: https://github.com/liangxia/archive/diy.zip
 Help-Topics:
   "Getting Started": https://www.openshift.com/community/videos/getting-started-with-diy-applications-on-openshift
 Cart-Data:
