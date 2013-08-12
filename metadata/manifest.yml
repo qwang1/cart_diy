@@ -13,7 +13,7 @@ Categories:
   - web_framework
   - experimental
 Website:
-Sour-url:https://github.com/liangxia/cart_diy.git
+Source-url:https://github.com/liangxia/cart_diy.git
 Help-Topics:
   "Getting Started": https://www.openshift.com/community/videos/getting-started-with-diy-applications-on-openshift
 Cart-Data:
