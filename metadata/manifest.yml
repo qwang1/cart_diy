@@ -13,7 +13,8 @@ Categories:
   - web_framework
   - experimental
 Website:
-Source-Url: https://github.com/liangxia/cart_diy.git
+#Source-Url: https://github.com/liangxia/cart_diy.git
+Source-Url: http://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
 #Source-Url: file:///root/cart_diy
 #Source-Url: git://github.com/liangxia/cart_diy.git
 #Source-Url: http://github.com/liangxia/cart_diy.git
