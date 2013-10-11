@@ -7,7 +7,7 @@ License: "ASL 2.0"
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
 Cartridge-Version: 0.0.3
 Compatible-Versions: [0.0.1, 0.0.2]
-Cartridge-Vendor: 22--redhat_test
+Cartridge-Vendor: 220000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000redhat_test
 Vendor: redhat_test
 Categories:
   - web_framework
