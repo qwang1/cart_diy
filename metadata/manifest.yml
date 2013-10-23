@@ -1,5 +1,4 @@
 Name: diy
-Nameee->abcded
 Cartridge-Short-Name: DIY
 Display-Name: Do-It-Yourself 0.1
 Description: "The Do-It-Yourself (DIY) application type is a blank slate for trying unsupported languages, frameworks, and middleware on OpenShift. See the community site for examples of bringing your favorite framework to OpenShift."
@@ -8,7 +7,7 @@ License: "ASL 2.0"
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
 Cartridge-Version: 0.0.3
 Compatible-Versions: [0.0.1, 0.0.2]
-Cartridge-Vendor: redhat
+Cartridge-Vendor: red_hat
 Vendor: redhat_test
 Categories:
   - web_framework
