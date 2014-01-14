@@ -1,18 +1,19 @@
-Name: diy
+Name: openshift-lxia-diy
 Obsolete: false
-Cartridge-Short-Name: DIY
-Display-Name: Do-It-Yourself 0.1
-Description: "The Do-It-Yourself (DIY) application type is a blank slate for trying unsupported languages, frameworks, and middleware on OpenShift. See the community site for examples of bringing your favorite framework to OpenShift."
+Cartridge-Short-Name: OPENSHIFT-DIY
+Display-Name: OpenShift-Do-It-Yourself 0.1
+Description: "The OpenShift-Do-It-Yourself (OPENSHIFT-DIY) application type is a blank slate for trying unsupported languages, frameworks, and middleware on OpenShift. See the community site for examples of bringing your favorite framework to OpenShift."
 Version: '0.1'
 License: "ASL 2.0"
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
 Cartridge-Version: 0.0.3
 Compatible-Versions: [0.0.1, 0.0.2]
-Cartridge-Vendor: abc1234567891234567890
-Vendor: redhat
+Cartridge-Vendor: OpenShift
+Vendor: openshift
 Categories:
   - web_framework
   - experimental
+  - download
 Website:
 Source-Url: https://github.com/liangxia/cart_diy.git
 #Source-Url: http://github.com/wsun1/perlv2cart/raw/master/perlv2cart.tar.gz
@@ -54,8 +55,8 @@ Cart-Data:
     Type: environment
     Description: "Unique ID which identified the gear. This value changes between gears."
 Provides:
-  - diy-0.1
-  - diy
+  - openshift-diy-0.1
+  - openshift-diy
 Publishes:
   publish-http-url:
     Type: "NET_TCP:httpd-proxy-info"
