@@ -85,9 +85,3 @@ Endpoints:
         Backend:       ""
         Options:       { health: true }
 
-
-- Private-IP-Name:   SSL_IP
-  Private-Port-Name: SSL_PORT
-  Private-Port:      8443
-  Public-Port-Name:  SSL_PROXY_PORT
-  Options:           { "ssl_to_gear": true }
